@@ -1,0 +1,43 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+
+h1{
+    font-family: cursive;
+    color: blue;
+}
+h3{
+    font-family: cursive;
+  
+}
+table{
+    Border: 2px solid black;
+}
+
+td{
+    
+    Border: 2px solid black;
+}
+#p1{
+    font-style: italic;
+}
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+#root{
+    padding: 0 1rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
